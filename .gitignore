@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/reviews.csv
+data/processed_reviews.csv
+outputs/

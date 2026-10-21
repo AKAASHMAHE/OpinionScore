@@ -1,0 +1,11 @@
+# Light theme: rename this file to config.toml (replacing the dark one) and restart Streamlit.
+[theme]
+base = "light"
+primaryColor = "#4F46E5"
+backgroundColor = "#F6F7FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#101828"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

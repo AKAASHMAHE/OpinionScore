@@ -1,0 +1,12 @@
+# ACTIVE THEME: dark. The app reads theme.base from here, so keep these colours as they are.
+# To switch to light, replace this file with config.light.toml (rename it to config.toml).
+[theme]
+base = "dark"
+primaryColor = "#8B8CFF"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#121A2E"
+textColor = "#E6EAF4"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
