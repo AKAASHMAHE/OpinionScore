@@ -1,9 +1,7 @@
 # Opinion Mining and Tag-Based Categorization
 
-A Python case-study project with data collection, text preprocessing, BoW, TF-IDF, SVD/LSA, VADER sentiment, ranked tags, and a Streamlit dashboard.
+A Text Mining case-study project with data collection, text preprocessing, BoW, TF-IDF, SVD/LSA, VADER sentiment, ranked tags, and a Streamlit dashboard.
 
-## Important data-source note
-Before analyzing comments from any platform, check the platform's current terms, API policies, retention rules, and permission requirements. Publicly viewable content is not automatically permitted for every kind of collection, derived analysis, or redistribution. Do not publicly share raw comments or API keys unless permitted. If platform terms do not allow the intended analysis, use consent-based feedback or a dataset with a license that permits text mining and derived sentiment/tag outputs.
 
 ## Setup
 1. Install Python 3.10+.
