@@ -1,0 +1,10 @@
+{
+  "total_reviews": 494,
+  "positive": 235,
+  "negative": 86,
+  "neutral": 173,
+  "mean_sentiment_score": 0.1769188259109312,
+  "median_likes": 0.0,
+  "max_likes": 1839,
+  "svd_explained_variance_ratio_sum": 0.050431284471421034
+}
